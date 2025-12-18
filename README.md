@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🏫 First year PhD student at [@hku](https://www.hku.hk/) 
-- 🔭 I’m currently working on `Bio-structure` & `Molecular dynamics` & `Deep learning` 
+- 🔭 I’m currently working on `Structural biology` & `Molecular dynamics` & `Deep learning` 
 
 ## My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Felixfelixfelix-ai&show_icons=true&theme=transparent)
