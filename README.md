@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
-- 🏫 First year PhD students at [@hku](https://www.hku.hk/)
-- 🔭 I’m currently working on `Bio-structure` & `Molecular dynamics` & `Deep learning`
+
+
+- 🏫 First year PhD student at [@hku](https://www.hku.hk/) 
+- 🔭 I’m currently working on `Bio-structure` & `Molecular dynamics` & `Deep learning` 
 
 ## My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Felixfelixfelix-ai&show_icons=true&theme=transparent)
