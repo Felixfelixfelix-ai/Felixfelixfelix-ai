@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 
 
+## Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felixfelixfelix-ai&layout=compact&theme=tokyonight)
 
