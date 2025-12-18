@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/SQL-red?style=for-the-badge&labelColor=white)![](https://img.shields.io/badge/linux-purple?style=for-the-badge&labelColor=white)![](https://img.shields.io/badge/pytorch-cyan?style=for-the-badge&labelColor=white)
 
 
 
