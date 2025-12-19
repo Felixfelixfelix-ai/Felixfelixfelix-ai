@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 
 ## Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felixfelixfelix-ai&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Felixfelixfelix-ai&layout=compact&hide=Jupyter+Notebook,html,css,javascript&show_icons=true&include_all_commits=true&langs_count=8&role=OWNER,ORGANIZATION_MEMBER&theme=tokyonight)
 
