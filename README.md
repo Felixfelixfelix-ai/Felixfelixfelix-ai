@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🏫 First year PhD student at [@hku](https://www.hku.hk/) 
+- 🏫 Second year PhD student at [@hku](https://www.hku.hk/) 
 - 🔭 I’m currently working on `Structural biology` & `Molecular dynamics` & `Deep learning` 
 
 
